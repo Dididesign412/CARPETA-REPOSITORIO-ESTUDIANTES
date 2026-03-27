@@ -1,4 +1,4 @@
-# Sesión 02 - 27/03
+# Sesión 02 - 20/03
 ## ***MARKDOWN***
 - Github es una plataforma para almacenar, gestionar y compartir código(red social de programadores)
 - Markdown es un lenguaje de marcado ligero, forma de escribir texto con formato(negrita, titulos, listdo, etc.)
