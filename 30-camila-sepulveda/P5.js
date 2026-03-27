@@ -23,6 +23,18 @@ usa libreria de Javascript, pero mas simplificada, para poder manejarla de una m
 
   ## funciones maestras.
 
-  Setup: ejecuta una sola vez al principio( para crear lienzo), su proposito es configurar el entorno inicial
+setup: ejecuta una sola vez al principio( para crear lienzo), su proposito es configurar el entorno inicial
 
 draw: se ejecuta uin bucle infinito, es lo que permite crear animaciones, se puede modificar y su prioposito es crear movimiento
+
+# create canvas.
+  linea de codigo para cxrear el crear el fondo: createCanvas(
+
+Render: confirgura el programa en modo dos d, imagenes basicas, planas
+  WEBGL: ativa modelo 3D, utiliza pieza grafica GPU
+    canvas,: para programas sitios web
+  
+*comando ++ es para acercar la visualizacion de la pantalla 
+
+# background
+sintaxis: background(v1, v2, v3, 
