@@ -30,6 +30,12 @@
 - Imagen con link: [![hola3]
 - (https://t3.ftcdn.net/jpg/06/51/19/14/360_F_651191487_zEM2hHcPX46MiFqndc9cX0ADEh01gU2p.jpg)](https://t3.ftcdn.net/jpg/06/51/19/14/360_F_651191487_zEM2hHcPX46MiFqndc9cX0ADEh01gU2p.jpg)
 - Bloques de código: ```hola(hola)```__*
+- Tabla: 
+   | Artista | Técnica | Año |
+   | :--- | :---: | ---: |
+   | Abramovic | Performance | 2010 |
+   | Van Gogh | Pintura | 1889 |
+  
 ---
 ### ***BREVE HISTORIA DE LA COMPUTACIÓN***
   1. **Arquitectura del pensamiento**
